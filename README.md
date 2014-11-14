@@ -1,5 +1,7 @@
 # tutsplus-dl
 
+[![Bountysource](https://www.bountysource.com/badge/tracker?tracker_id=1473706)](https://www.bountysource.com/trackers/1473706-sfdye-tutsplus-dl?utm_source=1473706&utm_medium=shield&utm_campaign=TRACKER_BADGE)
+
 Inspired by [coursera-dl][coursera-dl], `tutsplus-dl` is a tool to batch download course videos from tut+ premium (e.g. the amazing [Perfect Workflow in Sublime Text 2][sublime_course] by Jeffrey Way).
 
 [coursera-dl]: https://github.com/coursera-dl/coursera
